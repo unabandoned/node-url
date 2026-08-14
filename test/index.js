@@ -23,9 +23,9 @@
  * USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-var test = require('mocha').test;
-var assert = require('assert');
-var nodeURL = require('url');
+var test = require('node:test');
+var assert = require('node:assert');
+var nodeURL = require('node:url');
 
 var url = require('../url');
 
