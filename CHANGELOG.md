@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.11.8](https://github.com/unabandoned/node-url/compare/url-v0.11.7...url-v0.11.8) (2026-09-22)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.4 ([#14](https://github.com/unabandoned/node-url/issues/14)) ([7e0a8bf](https://github.com/unabandoned/node-url/commit/7e0a8bf6fd0a9e2dadacc075fe985ee4e91606b6))
+* **deps:** update unabandoned/.github action to v1.0.5 ([#15](https://github.com/unabandoned/node-url/issues/15)) ([9ab64b5](https://github.com/unabandoned/node-url/commit/9ab64b5cfaa239994a14278a68b3f763923b8978))
+* **deps:** update unabandoned/.github action to v1.1.0 ([#17](https://github.com/unabandoned/node-url/issues/17)) ([5e99d91](https://github.com/unabandoned/node-url/commit/5e99d9191b4dcb7d3771776f4ef4be72a9e77a7a))
+
 ## [0.11.7](https://github.com/unabandoned/node-url/compare/url-v0.11.6...url-v0.11.7) (2026-08-28)
 
 
