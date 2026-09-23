@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.9](https://github.com/unabandoned/node-url/compare/url-v0.11.8...url-v0.11.9) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#20](https://github.com/unabandoned/node-url/issues/20)) ([48ef56b](https://github.com/unabandoned/node-url/commit/48ef56b7e35c5fb02dcfc40b8c7049cd00c77708))
+
 ## [0.11.8](https://github.com/unabandoned/node-url/compare/url-v0.11.7...url-v0.11.8) (2026-09-22)
 
 
