@@ -2,6 +2,10 @@
   "name": "@unabandoned/url",
   "description": "The core `url` packaged standalone for use with Browserify.",
   "version": "0.11.9",
+  "files": [
+    "CHANGELOG.md",
+    "url.js"
+  ],
   "author": "defunctzombie",
   "homepage": "https://github.com/unabandoned/node-url#readme",
   "license": "MIT",
